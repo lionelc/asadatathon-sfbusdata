@@ -1,0 +1,266 @@
+[
+  {
+    "location": {
+      "latitude": 37.78,
+      "longitude": -122.42
+    },
+    "statistics": {
+      "population_density": {
+        "source_name": "NASA Socioeconomic Data and Applications Center (SEDAC) – Hosted by CIESIN at Columbia University",
+        "description": "The number of inhabitants per square kilometer around this point.",
+        "value": 13543
+      },
+      "us_population_foreign_born": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents who were born in a different country.",
+        "proportion_of": 5947,
+        "value": 0.359004540104254
+      },
+      "us_population_hispanic_or_latino": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents who identify themselves as hispanic or latino.",
+        "proportion_of": 5947,
+        "value": 0.124432486968219
+      },
+      "us_housing_units_no_vehicle": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of occupied housing units with no vehicle available.",
+        "proportion_of": 3928,
+        "value": 0.485234215885947
+      },
+      "us_population_native_hawaiian_and_other_pacific_islander": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents who identify as Native Hawaiian or other Pacific islander.",
+        "proportion_of": 5947,
+        "value": 0.0040356482259963
+      },
+      "us_population": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The number of residents in this area",
+        "value": 5947
+      },
+      "elevation": {
+        "source_name": "NASA and the CGIAR Consortium for Spatial Information",
+        "description": "The height of the surface above sea level at this point.",
+        "value": 31,
+        "units": "meters"
+      },
+      "precipitation": {
+        "source_name": "WorldClim",
+        "description": "The monthly average total precipitation at this point.",
+        "value": [
+          115,
+          86,
+          81,
+          35,
+          8,
+          4,
+          1,
+          2,
+          6,
+          33,
+          78,
+          88
+        ],
+        "units": "millimeters"
+      },
+      "us_population_one_to_four_years_olds": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents aged one to four years old.",
+        "proportion_of": 5947,
+        "value": 0.0171515049604843
+      },
+      "us_housing_units_one_person": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of housing units containing only one person",
+        "proportion_of": 3928,
+        "value": 0.578411405295316
+      },
+      "us_population_severe_poverty": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents whose income is below half the poverty level.",
+        "proportion_of": 5947,
+        "value": 0.0849167647553388
+      },
+      "land_cover": {
+        "index": 22,
+        "source_name": "European Commission Land Resource Management Unit Global Land Cover 2000",
+        "description": "What type of environment exists around this point - urban, water, vegetation, mountains, etc.",
+        "value": "Artificial surfaces and associated areas"
+      },
+      "us_housing_units_after_1990": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of housing units built after 1990.",
+        "proportion_of": 3928,
+        "value": 0.0529531568228106
+      },
+      "us_housing_units": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The total number of housing units in this area",
+        "value": 3928
+      },
+      "us_housing_units_occupied": {
+        "source_name": null,
+        "description": "The proportion of housing units that are occupied.",
+        "proportion_of": 3928,
+        "value": 0.919806517311609
+      },
+      "us_housing_units_vacation": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The number of vacant housing units that are used for seasonal, recreational, or occasional use.",
+        "proportion_of": 3928,
+        "value": 0.0264765784114053
+      },
+      "mean_temperature": {
+        "source_name": "WorldClim",
+        "description": "The mean monthly temperature at this point.",
+        "value": [
+          10.4,
+          12.1,
+          12.6,
+          13.3,
+          14.4,
+          15.6,
+          16.0,
+          16.6,
+          17.6,
+          16.4,
+          13.8,
+          10.9
+        ],
+        "units": "degrees Celsius"
+      },
+      "us_population_over_seventy_nine_years_old": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents over seventy nine years old.",
+        "proportion_of": 5947,
+        "value": 0.0324533378173869
+      },
+      "us_population_black_or_african_american": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents identifying as black or African American.",
+        "proportion_of": 5947,
+        "value": 0.110139566167816
+      },
+      "us_population_poverty": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents whose income is below the poverty level",
+        "proportion_of": 5947,
+        "value": 0.160753321002186
+      },
+      "us_population_eighteen_to_twenty_four_years_old": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents aged eighteen to twenty four years old.",
+        "proportion_of": 5947,
+        "value": 0.120901294770473
+      },
+      "us_population_bachelors_degree": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents whose maximum educational attainment was a bachelor's degree.",
+        "proportion_of": 5947,
+        "value": 0.337312930889524
+      },
+      "us_housing_units_1950_to_1969": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of housing units built between 1950 and 1969.",
+        "proportion_of": 3928,
+        "value": 0.227851323828921
+      },
+      "us_population_low_income": {
+        "source_name": null,
+        "description": "The proportion of residents who earn less than twice the poverty level",
+        "proportion_of": 5947,
+        "value": 0.364721708424416
+      },
+      "us_population_under_one_year_old": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents under one year of age.",
+        "proportion_of": 5947,
+        "value": 0.00319488817891374
+      },
+      "us_households_single_mothers": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of households with a female householder, no husband, and one or more children under eighteen.",
+        "proportion_of": 3613,
+        "value": 0.017713811237199
+      },
+      "us_households": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The number of households in this area.",
+        "value": 3613
+      },
+      "us_population_black_or_african_american_not_hispanic": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents who didn't identify as hispanic or latino, just black or African American alone",
+        "proportion_of": 5947,
+        "value": 0.107112829998318
+      },
+      "us_households_linguistically_isolated": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of households in which no one aged 14 or older speaks English very well",
+        "proportion_of": 3613,
+        "value": 0.156379739828397
+      },
+      "us_population_sixty_five_to_seventy_nine_years_old": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents aged sixty five to seventy nine years old.",
+        "proportion_of": 5947,
+        "value": 0.119387926685724
+      },
+      "us_population_asian": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents identifying as Asian.",
+        "proportion_of": 5947,
+        "value": 0.193038506810156
+      },
+      "us_housing_units_before_1950": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of housing units built before 1950.",
+        "proportion_of": 3928,
+        "value": 0.487016293279022
+      },
+      "us_population_twenty_five_to_sixty_four_years_old": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents aged twenty five to sixty four years old.",
+        "proportion_of": 5947,
+        "value": 0.657978812846813
+      },
+      "us_housing_units_1970_to_1989": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of housing units built between 1970 and 1989.",
+        "proportion_of": 3928,
+        "value": 0.230906313645621
+      },
+      "us_population_white_not_hispanic": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents who didn't identify as hispanic or latino, just white alone",
+        "proportion_of": 5947,
+        "value": 0.526147637464268
+      },
+      "us_housing_units_owner_occupied": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of housing units that are occupied by their owners.",
+        "proportion_of": 3928,
+        "value": 0.101578411405295
+      },
+      "us_population_white": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents who identify themselves as white.",
+        "proportion_of": 5947,
+        "value": 0.588532032957794
+      },
+      "us_population_five_to_seventeen_years_old": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The proportion of residents aged five to seventeen years old.",
+        "proportion_of": 5947,
+        "value": 0.0491003867496217
+      },
+      "us_sample_area": {
+        "source_name": "US Census and the CGIAR Consortium for Spatial Information",
+        "description": "The total area of the grid cell US Census samples were calculated on.",
+        "value": 678933,
+        "units": "square meters"
+      }
+    }
+  }
+]

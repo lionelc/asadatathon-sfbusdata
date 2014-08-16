@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "94087",
+               "short_name" : "94087",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Sunnyvale",
+               "short_name" : "Sunnyvale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sunnyvale, CA 94087, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.37543489999999,
+                  "lng" : -121.9957801
+               },
+               "southwest" : {
+                  "lat" : 37.329901,
+                  "lng" : -122.065265
+               }
+            },
+            "location" : {
+               "lat" : 37.3492097,
+               "lng" : -122.0326019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.37543489999999,
+                  "lng" : -121.9957801
+               },
+               "southwest" : {
+                  "lat" : 37.329901,
+                  "lng" : -122.065265
+               }
+            }
+         },
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}
